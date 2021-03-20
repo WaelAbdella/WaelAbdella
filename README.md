@@ -8,7 +8,7 @@
 ### GitHub Stats
 
 ![Tassia Accioly's github stats](https://github-readme-stats.vercel.app/api?username=WaelAbdella&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAbdella&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAbdella&theme=great-gatsby)
 
 
 ### My Stack
