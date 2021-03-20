@@ -5,12 +5,12 @@
 
 
 
-### GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAbdella&theme=midnight-purple)
 
 
-### My Stack
+## My Stack
 
 #### Languages:
 
