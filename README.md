@@ -26,7 +26,7 @@
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-
+![aws](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
 
 #### Utilities:
 
