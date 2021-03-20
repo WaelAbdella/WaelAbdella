@@ -17,7 +17,6 @@
 ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
 ![JAVA](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
 ![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![CPP](https://cdn.worldvectorlogo.com/logos/c.svg)
 #### Application and Data:
 ![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)
