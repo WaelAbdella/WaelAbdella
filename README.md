@@ -1,10 +1,6 @@
 ### Hi there, I am  👋
 
-I am 
 ![1](https://github.com/WaelAbdella/WaelAbdella/blob/main/gifntext-gif.gif)
-
-
-https://github.com/WaelAbdella/WaelAbdella/blob/main/gifntext-gif.gif
 
 <!--
 **WaelAbdella/WaelAbdella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
