@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I am  👋
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+I am 
 ![1](https://github.com/WaelAbdella/WaelAbdella/blob/main/gifntext-gif.gif)
 
 
