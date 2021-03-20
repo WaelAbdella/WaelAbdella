@@ -20,17 +20,13 @@
 
 #### Application and Data:
 ![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![Flutter](https://www.vectorlogo.zone/logos/Flutter/Flutter-ar21.svg)
 ![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)
 ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 ![Sass](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg)
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
-![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
 #### UX/UI:
 
