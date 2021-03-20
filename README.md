@@ -41,6 +41,13 @@
 [gmail]: mailto:waelahmed98@gmail.com
 [medium]: https://tassiaaccioly.medium.com/
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/p8ru4v843mtb2gal096omyj2e)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <!--
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=WaelAbdella&show_icons=true)
