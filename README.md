@@ -15,8 +15,8 @@
 #### Languages:
 
 ![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
-![C Sharp](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JAVA](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 
 #### Application and Data:
 ![ReactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
