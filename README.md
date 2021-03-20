@@ -15,7 +15,7 @@
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![C Sharp](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 #### Application and Data:
