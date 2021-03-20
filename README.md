@@ -25,37 +25,23 @@
 ![Sass](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg)
 ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
-#### UX/UI:
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
 #### Utilities:
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Visual Studio](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
+![Android Studio](https://www.vectorlogo.zone/logos/android/android-ar21.svg)
 
 #### DevOps:
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 
-#### Business:
-
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=white)
 
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/WaelAbdella/WaelAbdella?color=yellow" alt="Visitors badge" />
  </a>
 
 [linkedin]: https://www.linkedin.com/in/tassiaaccioly/
