@@ -1,13 +1,6 @@
 ### Hi there, I am  👋
 
-![1](https://github.com/WaelAbdella/WaelAbdella/blob/main/gifntext-gif.gif)
-
-
-
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAbdella&theme=midnight-purple)
+![1](https://github.com/WaelAbdella/WaelAbdella/blob/main/gifntext-gif.gif) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelAbdella&theme=midnight-purple)
 
 
 ## My Stack
