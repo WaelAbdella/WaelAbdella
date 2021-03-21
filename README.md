@@ -33,9 +33,6 @@
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 
 
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/WaelAbdella/WaelAbdella?color=yellow" alt="Visitors badge" />
- </a>
 
 [linkedin]: https://www.linkedin.com/in/wael-abdella-96a27417b/
 [gmail]: mailto:waelahmed98@gmail.com
