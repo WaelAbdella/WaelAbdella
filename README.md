@@ -47,7 +47,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WaelAbdella&repo=WaelAbdella&countColorcountColor&countColor=%237B1E7B"/>
 
 <!--
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=WaelAbdella&show_icons=true)
