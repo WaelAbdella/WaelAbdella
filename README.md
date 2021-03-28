@@ -9,7 +9,7 @@
 
 #### Languages:
 
-(https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
 ![JAVA](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
 ![PYTHON](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 #### Application and Data:
